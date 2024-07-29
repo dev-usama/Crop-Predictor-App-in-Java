@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "804383334738",
+    "project_id": "cropyieldprediction-1179a",
+    "storage_bucket": "cropyieldprediction-1179a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804383334738:android:9222c16a6234343b61da8b",
+        "android_client_info": {
+          "package_name": "com.example.cropyieldprediction"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAd8eelzD55RS5SovI-bTy-X6BKeWtnPeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
